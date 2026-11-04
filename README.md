@@ -173,10 +173,3 @@ Selected by name with `--configs`, defined in the registry at the bottom of
 | `dualt_frozenvit` | ablation: frozen ViT backbone |
 
 ---
-
-## Citation
-
-> O. Vural, S. M. Hamdi, and S. Filali Boubrahimi, "DualT-Fusion: Multimodal
-> Representation Learning with Dual Transformers and Supervised Contrastive
-> Alignment for Solar Flare Prediction," IEEE International Conference on Big
-> Data (BigData), 2026.
